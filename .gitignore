@@ -48,3 +48,5 @@ apsw.egg-info
 /.mypy_cache/
 /System Volume Informationm/
 __pycache__/
+.venv
+.direnv/
